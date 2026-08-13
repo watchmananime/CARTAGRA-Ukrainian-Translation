@@ -28,4 +28,17 @@
 
 **Anime Watchman**
 
+## 🔗 Посилання
+
+- 🎬 [YouTube — Anime Watchman](https://www.youtube.com/@watchmananime)
+- 📺 [Twitch — Anime Watchman](https://www.twitch.tv/anime_watchman)
+- 💬 [Telegram — Anime Watchman](https://t.me/anime_watchman)
+- 🎮 [Steam Guide — український переклад CARTAGRA](ПОСИЛАННЯ_НА_STEAM_GUIDE)
+
+## 💙 Підтримати переклад
+
+Якщо вам сподобався переклад і ви хочете підтримати подальшу роботу:
+
+[Підтримати автора](https://base.monobank.ua/7mB7xpM6qaZFZy)
+
 Це аматорський фанатський переклад, який не є офіційною локалізацією.
