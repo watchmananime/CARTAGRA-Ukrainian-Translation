@@ -33,7 +33,7 @@
 - 🎬 [YouTube — Anime Watchman](https://www.youtube.com/@watchmananime)
 - 📺 [Twitch — Anime Watchman](https://www.twitch.tv/anime_watchman)
 - 💬 [Telegram — Anime Watchman](https://t.me/anime_watchman)
-- 🎮 [Steam Guide — український переклад CARTAGRA](ПОСИЛАННЯ_НА_STEAM_GUIDE)
+- 🎮 [Steam Guide — український переклад CARTAGRA](https://steamcommunity.com/sharedfiles/filedetails/?id=3782934979)
 
 ## 💙 Подякувати за переклад
 
